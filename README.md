@@ -25,11 +25,11 @@
     <td class="tg-wp8o"><a href="https://github.com/usuario" target="_blank" rel="noopener noreferrer">usuario</a></td>
   </tr>
   <tr>
-    <td class="tg-wp8o">Céspedes Downing Jose Antonio</td>
+    <td class="tg-wp8o">Céspedes Downing José Antonio</td>
     <td class="tg-wp8o">Ingeniería en Computadores</td>
     <td class="tg-wp8o">Engineering in Medicine and Biology Society</td>
-    <td class="tg-wp8o">-</td>
-    <td class="tg-wp8o"><a href="https://github.com/usuario" target="_blank" rel="noopener noreferrer">usuario</a></td>
+    <td class="tg-wp8o">Comité de Redes Sociales</td>
+    <td class="tg-wp8o"><a href="https://github.com/Josecespedesant" target="_blank" rel="noopener noreferrer">Josecespedesant</a></td>
   </tr>
   <tr>
     <td class="tg-wp8o">Guevara Rosello Ana María</td>
