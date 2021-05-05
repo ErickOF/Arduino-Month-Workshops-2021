@@ -32,6 +32,13 @@
     <td class="tg-wp8o"><a href="https://github.com/Josecespedesant" target="_blank" rel="noopener noreferrer">Josecespedesant</a></td>
   </tr>
   <tr>
+    <td class="tg-wp8o">Chen Te</td>
+    <td class="tg-wp8o">Ingeniería en Computación</td>
+    <td class="tg-wp8o">Rama IEEE</td>
+    <td class="tg-wp8o">Secretaría</td>
+    <td class="tg-wp8o"><a href="https://github.com/tchen2002" target="_blank" rel="noopener noreferrer">tchen2002</a></td>
+  </tr>
+  <tr>
     <td class="tg-wp8o">Guevara Rosello Ana María</td>
     <td class="tg-wp8o">Ingeniería en Computación</td>
     <td class="tg-wp8o">Computer Society/Rama IEEE</td>
