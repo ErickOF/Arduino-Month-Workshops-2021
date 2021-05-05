@@ -64,7 +64,7 @@
     <td class="tg-wp8o">Ingeniería en Computación</td>
     <td class="tg-wp8o">Computer Society</td>
     <td class="tg-wp8o">Presidente</td>
-    <td class="tg-wp8o"><a href="https://github.com/usuario" target="_blank" rel="noopener noreferrer">usuario</a></td>
+    <td class="tg-wp8o"><a href="https://github.com/Stevenpach10" target="_blank" rel="noopener noreferrer">Stevenpach10</a></td>
   </tr>
   <tr>
     <td class="tg-wp8o">Xie Li Danny</td>
