@@ -43,7 +43,7 @@
     <td class="tg-wp8o">Ingeniería en Biotecnología</td>
     <td class="tg-wp8o">Engineering in Medicine and Biology Society</td>
     <td class="tg-wp8o">Presidenta</td>
-    <td class="tg-wp8o"><a href="https://github.com/usuario" target="_blank" rel="noopener noreferrer">usuario</a></td>
+    <td class="tg-wp8o"></td>
   </tr>
   <tr>
     <td class="tg-wp8o">Muñoz Alvarado Érick Alejandro</td>
