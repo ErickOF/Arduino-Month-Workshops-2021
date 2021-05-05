@@ -34,9 +34,16 @@
   <tr>
     <td class="tg-wp8o">Guevara Rosello Ana María</td>
     <td class="tg-wp8o">Ingeniería en Computación</td>
-    <td class="tg-wp8o">Computer Society</td>
-    <td class="tg-wp8o">Vocal</td>
+    <td class="tg-wp8o">Computer Society/Rama IEEE</td>
+    <td class="tg-wp8o">Vocal/Comité de Redes Sociales</td>
     <td class="tg-wp8o"><a href="https://github.com/ChesGuev99" target="_blank" rel="noopener noreferrer">ChesGuev99</a></td>
+  </tr>
+  <tr>
+    <td class="tg-wp8o">Hernández Montoya Ariadna</td>
+    <td class="tg-wp8o">Ingeniería en Biotecnología</td>
+    <td class="tg-wp8o">Engineering in Medicine and Biology Society</td>
+    <td class="tg-wp8o">Vice Presidenta/Comité de Actividades</td>
+    <td class="tg-wp8o"></td>
   </tr>
   <tr>
     <td class="tg-wp8o">Jiménez Maroto Bianca</td>
@@ -67,11 +74,18 @@
     <td class="tg-wp8o"><a href="https://github.com/Stevenpach10" target="_blank" rel="noopener noreferrer">Stevenpach10</a></td>
   </tr>
   <tr>
+    <td class="tg-wp8o">Salas Ciudad Daniela</td>
+    <td class="tg-wp8o">Ingeniería en Biotecnología</td>
+    <td class="tg-wp8o">Engineering in Medicine and Biology Society</td>
+    <td class="tg-wp8o">Comité de Imagen</td>
+    <td class="tg-wp8o"></td>
+  </tr>
+  <tr>
     <td class="tg-wp8o">Xie Li Danny</td>
     <td class="tg-wp8o">Ingeniería en Computación</td>
     <td class="tg-wp8o">Rama IEEE</td>
     <td class="tg-wp8o">Presidente</td>
-    <td class="tg-wp8o"><a href="https://github.com/usuario" target="_blank" rel="noopener noreferrer">usuario</a></td>
+    <td class="tg-wp8o"><a href="https://github.com/dnnxl" target="_blank" rel="noopener noreferrer">dnnxl</a></td>
   </tr>
 </tbody>
 </table></div>
