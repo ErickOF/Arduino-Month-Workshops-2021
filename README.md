@@ -6,18 +6,6 @@
 
 ## **Contribuidores**
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-wp8o{border-color:#000000;text-align:center;vertical-align:top}
-.tg .tg-378s{border-color:#000000;font-weight:bold;position:-webkit-sticky;position:sticky;text-align:center;top:-1px;
-  vertical-align:top;will-change:transform}
-.tg .tg-konv{border-color:#000000;position:-webkit-sticky;position:sticky;text-align:center;top:-1px;vertical-align:top;
-  will-change:transform}
-@media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;margin: auto 0px;}}</style>
 <div class="tg-wrap"><table class="tg">
 <thead>
   <tr>
