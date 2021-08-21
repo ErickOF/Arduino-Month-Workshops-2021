@@ -1,8 +1,13 @@
-# **Talleres de Arduino - Mayo 2021**
+# **Talleres de Arduino Month - 2021**
 
 ## **Talleres**
-* Introducción al Lenguaje de Programación de Arduino
-
+* Introducción a la placa de Arduino
+* Introducción al lenguaje de programación de Arduino.
+* Tinkercad: herramienta de programación con bloques de código
+* Monitor cardiaco
+* Casa inteligente
+* Introducción a la inteligencia artificial con Arduino
+* TinyML
 
 ## **Contribuidores**
 
