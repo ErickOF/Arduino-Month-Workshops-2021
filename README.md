@@ -30,6 +30,13 @@
     <td class="tg-wp8o"><a href="https://github.com/usuario" target="_blank" rel="noopener noreferrer">usuario</a></td>
   </tr>
   <tr>
+    <td class="tg-wp8o">Arias Méndez Esteban</td>
+    <td class="tg-wp8o">Ingeniería en Computación</td>
+    <td class="tg-wp8o">Rama IEEE y capítulos Electron Devices Society y Computer Society/Profesional Electron Devices Society</td>
+    <td class="tg-wp8o">Asesor/Presidente</td>
+    <td class="tg-wp8o"><a href="https://github.com/stbnarias" target="_blank" rel="noopener noreferrer">stbnarias</a></td>
+  </tr>
+  <tr>
     <td class="tg-wp8o">Céspedes Downing José Antonio</td>
     <td class="tg-wp8o">Ingeniería en Computadores</td>
     <td class="tg-wp8o">Engineering in Medicine and Biology Society</td>
